@@ -42,4 +42,8 @@ cacheSolve <- function(x, ...) {
   inver <- solve(data)
   x$setinverse(inver)
   inver
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
